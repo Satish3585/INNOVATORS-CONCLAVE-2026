@@ -13,9 +13,9 @@ It connects **farms, fields, soil, crops, crop health, harvests, marketplace lis
 | Member | Role |
 |---|---|
 | **Swagat Pawar** | Team Lead |
-| **Darshan Kalave** | Team Member |
-| **Satish Yada** | Team Member |
-| **Jhonmark R K** | Team Member |
+| **Darshan Kavala** | Team Member |
+| **Satish Yadav** | Team Member |
+| **Johnmark R K** | Team Member |
 
 ---
 
